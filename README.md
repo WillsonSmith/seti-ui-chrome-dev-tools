@@ -6,6 +6,9 @@ The extension & theme are in production, and not all syntaxes are finished yet.
 
 To use - enable the developer options in your chrome://extensions window and load an unpacked extension, you can build this with grunt, and load the files it produces.
 
+
+![Seti UI Theme Image](http://f.cl.ly/items/3r0l3Q431K0o1W1o2e15/Screen%20Shot%202015-01-05%20at%2010.40.52%20PM.png "Seti UI Theme")
+
 # Seti-UI Dev Tools Theme
 
 A port of the [seti-ui](https://atom.io/themes/seti-ui) theme and syntax highlighting to Chrome Devtools that use the Zero Base Template.
